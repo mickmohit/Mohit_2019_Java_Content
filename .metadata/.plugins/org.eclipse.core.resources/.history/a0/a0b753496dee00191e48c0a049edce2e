@@ -1,0 +1,5 @@
+package org.mohit.rest.REST_messenger.advanced.MessageReaderWriter;
+
+public class DateMessageBodyReader {
+
+}

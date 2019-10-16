@@ -1,0 +1,8 @@
+package com.mohit.rest;
+
+import javax.ws.rs.ApplicationPath;
+
+@ApplicationPath("/webapi")
+public class MyAppapi {
+
+}

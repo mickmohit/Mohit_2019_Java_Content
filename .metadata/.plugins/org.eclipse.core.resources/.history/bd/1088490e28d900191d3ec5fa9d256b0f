@@ -1,0 +1,43 @@
+package com.mohit.springdemo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("thatSillyCoach")
+public class TennisCoach implements Coach {
+
+	
+	private FortuneService fortuneService;
+	
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return "Practise backend volley";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return fortuneService.getFortune();
+	}
+
+	public TennisCoach() {
+		System.out.println("Default Constructor");
+	}
+	
+	//constructor DI
+	/*@Autowired
+	public TennisCoach(FortuneService fortuneService)
+	{
+		this.fortuneService=fortuneService;
+	}*/
+
+	
+
+	//setter DI
+	@Autowired
+	public void setFortuneService(FortuneService fortuneService) {
+		this.fortuneService = fortuneService;
+	}
+	
+}

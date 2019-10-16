@@ -1,0 +1,15 @@
+package org.mohit.rest.REST_messenger.model;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+@Path("/")
+public class CommentResource {
+
+	@GET
+	public String test() {
+		// TODO Auto-generated method stub
+		return "hello";
+	}
+
+}

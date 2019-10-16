@@ -1,0 +1,5 @@
+package com.mohit.springdemo;
+
+public interface FortuneService {
+
+}

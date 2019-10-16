@@ -1,0 +1,5 @@
+package com.mohit.springdemo.mvc.validation;
+
+public @interface MohitCouseCode {
+
+}

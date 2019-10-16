@@ -1,0 +1,5 @@
+package com.mohit.springrest.dao;
+
+public class CustomerDAOImpl {
+
+}

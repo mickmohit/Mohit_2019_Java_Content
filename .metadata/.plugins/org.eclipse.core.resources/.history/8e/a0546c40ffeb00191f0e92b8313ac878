@@ -1,0 +1,20 @@
+package org.mohit.rest.REST_messenger.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.mohit.rest.REST_messenger.model.Message;
+
+public class MessageService {
+
+	public List<Message> getMessages()
+	{
+		Message m1= new Message(1L, "Wakow", "Mohit");
+		Message m2= new Message(2L, "Noway", "Ambrish");
+		
+		List<Message> l= new ArrayList<>();
+		l.add(m1);
+		l.add(m2);
+	}
+	
+}

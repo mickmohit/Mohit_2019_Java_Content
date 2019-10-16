@@ -1,0 +1,17 @@
+package com.mohit.springdemo;
+
+public class TrackCoach implements Coach {
+
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return "Spend 40 mins in Track Practise";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

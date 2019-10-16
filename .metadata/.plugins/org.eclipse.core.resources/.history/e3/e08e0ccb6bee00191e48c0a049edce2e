@@ -1,0 +1,7 @@
+package org.mohit.rest.REST_messenger.advanced.MessageReaderWriter;
+
+import javax.ws.rs.ext.MessageBodyWriter;
+
+public class DateMessageBodyWriter implements MessageBodyWriter<T> {
+
+}

@@ -1,0 +1,24 @@
+<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+
+<html> 
+
+<head><title>Student Confirmation Form</title></head>
+<body>
+The Student is confirmed ${student.firstName} ${student.lastName}
+<br>
+Country: ${student.country} 
+
+<br>
+favorite Language: ${student.favoriteLanguage}
+<br>
+
+Operating System : 
+
+<ul>
+<c:forEach var="temp" items="${student.operatingSystem}">
+<li>${temp}</li>
+</c:forEach>
+</ul>
+
+</body>
+</html>

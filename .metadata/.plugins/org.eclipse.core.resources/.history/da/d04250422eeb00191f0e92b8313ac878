@@ -1,0 +1,5 @@
+package com.mohit.springrest.service;
+
+public class CustomerServiceImpl {
+
+}

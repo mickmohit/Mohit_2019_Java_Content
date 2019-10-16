@@ -1,0 +1,48 @@
+package com.mohit.hibernate.demo;
+
+import org.hibernate.FlushMode;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+import com.mohit.hibernate.demo.entity.Student;
+import com.mohit.hibernate.mapping.Instructor;
+import com.mohit.hibernate.mapping.InstructorDetail;
+
+public class MappingDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		SessionFactory sessionFactory1 = new Configuration().
+										configure("hibernate.cfg_Mapping.xml")
+										.addAnnotatedClass(Instructor.class)
+										.addAnnotatedClass(InstructorDetail.class)
+										.buildSessionFactory();
+		
+		Session session1= sessionFactory1.getCurrentSession();
+		//Session session1 = sessionFactory1.openSession();
+	
+		
+		try {
+
+			Instructor instructor = new Instructor("Mohit", "Darmwal", "mohit.darmwal@sita.aero");
+			InstructorDetail instructorDetail = new InstructorDetail("YouTube", "Eating");
+			
+			//associate objects
+			instructor.setInstructorDetail(instructorDetail);
+			
+			session1.beginTransaction();
+			session1.save(instructor);
+			
+			session1.beginTransaction().commit();
+			
+		}
+		finally {
+			session1.flush();
+            session1.close();
+			sessionFactory1.close();
+		}
+	}
+
+}

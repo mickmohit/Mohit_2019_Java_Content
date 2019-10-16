@@ -1,0 +1,5 @@
+package com.mohit.springrest.controller;
+
+public class StudentController {
+
+}

@@ -1,0 +1,4 @@
+server.port=8090
+
+info.app.name=Spring Boot
+info.app.version=1.0.0

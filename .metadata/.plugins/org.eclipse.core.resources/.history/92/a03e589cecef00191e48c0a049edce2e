@@ -1,0 +1,7 @@
+package org.mohit.rest.REST_messenger.advanced.Swagger;
+
+@Configuration
+@EnableSwagger2
+public class Swagger2Config {
+
+}

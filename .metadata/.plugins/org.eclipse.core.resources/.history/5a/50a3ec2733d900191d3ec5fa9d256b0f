@@ -1,0 +1,8 @@
+package com.mohit.springdemo;
+
+public class Snippet {
+	public static void main(String[] args) {
+		mylogger.properties
+	}
+}
+

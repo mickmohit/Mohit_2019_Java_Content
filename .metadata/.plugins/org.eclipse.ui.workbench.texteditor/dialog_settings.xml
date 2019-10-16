@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="customers" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="customers"/>
+			<item value="spring-security-demo"/>
+			<item value="jaxb"/>
+			<item value="studentID"/>
+			<item value="repo"/>
+			<item value="No Account found for you (Exception)"/>
+			<item value="method in throwing advice"/>
+			<item value="ut move on Ignore it"/>
+			<item value="method in throwing advic"/>
+			<item value="Exception throwing from After Throw advice########"/>
+			<item value="Exception throwing from After Throw advice"/>
+			<item value="No Account found for you (Exception),"/>
+			<item value="difference in time"/>
+			<item value="method in after advice"/>
+			<item value="No Account found for you"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1390" key="DIALOG_X_ORIGIN"/>
+		<item value="285" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

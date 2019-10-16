@@ -1,0 +1,28 @@
+package com.mohit.springdemo;
+
+public class CricketCoach implements Coach {
+
+	private FortuneService fortuneService;
+	
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return "Spend 30 mins for Cricket Practise";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return fortuneService.getFortune();
+	}
+
+	public FortuneService getFortuneService() {
+		return fortuneService;
+	}
+
+	public void setFortuneService(FortuneService fortuneService) {
+		System.out.print("Inside Setter Injection method");
+		this.fortuneService = fortuneService;
+	}
+
+}

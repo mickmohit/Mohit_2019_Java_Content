@@ -1,0 +1,11 @@
+package org.mohit.rest.REST_messenger.model;
+
+@GET("/")
+public class CommentResource {
+
+	public CommentResource test() {
+		// TODO Auto-generated method stub
+		return "hello";
+	}
+
+}

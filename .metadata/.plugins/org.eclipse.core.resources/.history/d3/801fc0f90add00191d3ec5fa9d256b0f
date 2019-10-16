@@ -1,0 +1,22 @@
+package com.mohit.springdemo.mvc.validation;
+
+import javax.validation.ConstraintValidator;
+import javax.validation.ConstraintValidatorContext;
+
+public class MohitCouseCodeConstraintValidator 
+     implements ConstraintValidator<MohitCourseCode, String>{
+
+	@Override
+	public void initialize(MohitCourseCode args)
+	{
+		
+	}
+	
+	
+	@Override
+	public boolean isValid(String arg0, ConstraintValidatorContext arg1) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

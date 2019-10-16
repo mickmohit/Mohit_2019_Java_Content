@@ -1,0 +1,23 @@
+package org.mohit.rest.REST_messenger.resources;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import org.mohit.rest.REST_messenger.service.MessageService;
+
+@Path("/messages")
+public class MessageReource {
+
+	MessageService messageService;
+	
+	@GET
+	@Produces(MediaType.TEXT_PLAIN)
+	public String getMessages()
+	{
+		return messageService.getMessages();
+	//	return "Cool Bawa!";
+	}
+	
+}

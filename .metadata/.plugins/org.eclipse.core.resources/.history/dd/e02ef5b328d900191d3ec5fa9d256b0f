@@ -1,0 +1,20 @@
+package com.mohit.springdemo;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class RandomFortuneService implements FortuneService {
+
+	public String[] data = {
+			"Mohit Fix it",
+			"Fixing it",
+			"Finally, Fixed"
+	} ;
+	
+	@Override
+	public String getFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

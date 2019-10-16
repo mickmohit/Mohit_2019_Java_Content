@@ -1,0 +1,8 @@
+<html>
+
+<body>
+Hello Spring Rest Demo!
+
+<a href="/test/hello">Click Me</a>
+</body>
+</html>

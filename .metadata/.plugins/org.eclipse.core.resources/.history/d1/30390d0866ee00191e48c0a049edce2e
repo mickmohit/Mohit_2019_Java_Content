@@ -1,0 +1,5 @@
+package org.mohit.rest.REST_messenger.advanced.resource;
+
+public class MyDate {
+
+}

@@ -1,0 +1,13 @@
+package org.mohit.rest.REST_messenger.resources;
+
+import javax.ws.rs.Path;
+
+@Path("/messages")
+public class MessageReource {
+
+	public String getMessages()
+	{
+		return "Cool Bawa!";
+	}
+	
+}
