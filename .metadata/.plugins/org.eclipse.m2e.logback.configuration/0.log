@@ -11172,3 +11172,152 @@ org.eclipse.core.runtime.CoreException: Launch configuration JarValidator refere
 2019-10-16 14:46:36,241 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-10-16 14:46:36,247 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-10-16 14:46:36,287 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-16 14:46:36,288 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\REST_messenger\src\test\resources
+2019-10-16 14:46:36,293 [Worker-699] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of REST_messenger
+2019-10-16 14:46:36,293 [Worker-699] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for REST_messenger
+2019-10-16 14:46:36,295 [Worker-699] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-18 10:35:13,878 [Worker-948] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-10-18 10:35:17,175 [Worker-948] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.mohit.rest:REST_messenger:0.0.1-SNAPSHOT @ C:\Mohit_Practise\REST_messenger\pom.xml.
+2019-10-18 10:35:20,906 [Worker-948] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /REST_messenger/src/main/java
+2019-10-18 10:35:20,914 [Worker-948] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /REST_messenger/src/main/resources
+2019-10-18 10:35:20,920 [Worker-948] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /REST_messenger/src/test/java
+2019-10-18 10:35:21,717 [Worker-948] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for REST_messenger
+2019-10-18 10:35:21,725 [Worker-948] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2019-10-18 10:35:22,308 [Worker-948] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-18 10:35:22,309 [Worker-948] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-18 10:35:22,325 [Worker-948] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-18 10:35:22,336 [Worker-948] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\REST_messenger\src\test\resources
+2019-10-18 10:35:22,345 [Worker-948] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of REST_messenger
+2019-10-18 10:35:22,345 [Worker-948] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for REST_messenger
+2019-10-18 10:35:22,362 [Worker-948] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:03:30,541 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-02 10:03:47,281 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.mohit.rest:REST_messenger:0.0.1-SNAPSHOT @ C:\Mohit_Practise\REST_messenger\pom.xml.
+2019-11-02 10:03:53,479 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:mycool:0.0.1-SNAPSHOT @ C:\Mohit_Practise\SpringBoot-01\pom.xml.
+2019-11-02 10:03:56,009 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.mohit.rest:REST_messenger:0.0.1-SNAPSHOT @ C:\Mohit_Practise\REST_messenger\pom.xml.
+2019-11-02 10:04:01,778 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:01,789 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:01,795 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:01,795 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\REST_messenger\src\test\resources
+2019-11-02 10:04:04,265 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.mohit.rest:REST_messenger:0.0.1-SNAPSHOT @ C:\Mohit_Practise\REST_messenger\pom.xml.
+2019-11-02 10:04:05,238 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:mycool:0.0.1-SNAPSHOT @ C:\Mohit_Practise\SpringBoot-01\pom.xml.
+2019-11-02 10:04:10,676 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:10,678 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-02 10:04:10,779 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:11,006 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.mohit.rest:REST_messenger:0.0.1-SNAPSHOT @ C:\Mohit_Practise\REST_messenger\pom.xml.
+2019-11-02 10:04:11,008 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:11,008 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\SpringBoot-01\src\test\resources
+2019-11-02 10:04:12,804 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:mycool:0.0.1-SNAPSHOT @ C:\Mohit_Practise\SpringBoot-01\pom.xml.
+2019-11-02 10:04:13,569 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:crud:0.0.1-SNAPSHOT @ C:\Mohit_Personal\Spring Softwares\crud\pom.xml.
+2019-11-02 10:04:15,339 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:15,340 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-02 10:04:15,355 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:15,369 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:15,384 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Personal\Spring Softwares\crud\src\test\resources
+2019-11-02 10:04:16,479 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:mycool:0.0.1-SNAPSHOT @ C:\Mohit_Personal\Spring Softwares\mycool\pom.xml.
+2019-11-02 10:04:17,189 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:17,203 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-02 10:04:17,216 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:17,218 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:17,229 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Personal\Spring Softwares\mycool\src\test\resources
+2019-11-02 10:04:19,667 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-crm-rest-demo:spring-crm-rest-demo:0.0.1-SNAPSHOT @ C:\Mohit_Practise\spring-crm-rest-demo\pom.xml.
+2019-11-02 10:04:22,680 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:22,696 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-crm-rest-demo\src\main\resources
+2019-11-02 10:04:22,707 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:22,732 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-crm-rest-demo\src\test\resources
+2019-11-02 10:04:23,419 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-rest-demo:spring-rest-demo:0.0.1-SNAPSHOT @ C:\Mohit_Practise\spring-rest-demo\pom.xml.
+2019-11-02 10:04:24,088 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:24,116 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-rest-demo\src\main\resources
+2019-11-02 10:04:24,127 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:24,148 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-rest-demo\src\test\resources
+2019-11-02 10:04:25,142 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-security-demo:spring-security-demo:0.0.1-SNAPSHOT @ C:\Mohit_Practise\spring-security-demo\pom.xml.
+2019-11-02 10:04:25,995 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:26,054 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo\src\main\resources
+2019-11-02 10:04:26,087 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:26,109 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo\src\test\resources
+2019-11-02 10:04:27,677 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.mohit.rest:REST_messenger:0.0.1-SNAPSHOT @ C:\Mohit_Practise\REST_messenger\pom.xml.
+2019-11-02 10:04:29,466 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:mycool:0.0.1-SNAPSHOT @ C:\Mohit_Practise\SpringBoot-01\pom.xml.
+2019-11-02 10:04:29,758 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:29,780 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-crm-rest-demo\src\main\resources
+2019-11-02 10:04:29,797 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:29,829 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-crm-rest-demo\src\test\resources
+2019-11-02 10:04:30,227 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:30,244 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-rest-demo\src\main\resources
+2019-11-02 10:04:30,258 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:30,276 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-rest-demo\src\test\resources
+2019-11-02 10:04:30,504 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:30,552 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo\src\main\resources
+2019-11-02 10:04:30,556 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:crud:0.0.1-SNAPSHOT @ C:\Mohit_Personal\Spring Softwares\crud\pom.xml.
+2019-11-02 10:04:30,573 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:30,667 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo\src\test\resources
+2019-11-02 10:04:31,492 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-security-demo_withoutDB:spring-security-demo_withoutDB:0.0.1-SNAPSHOT @ C:\Mohit_Practise\spring-security-demo_withoutDB\pom.xml.
+2019-11-02 10:04:33,279 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:33,306 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo_withoutDB\src\main\resources
+2019-11-02 10:04:33,322 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:33,370 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo_withoutDB\src\test\resources
+2019-11-02 10:04:35,377 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.mohit.rest:REST_messenger:0.0.1-SNAPSHOT @ C:\Mohit_Practise\REST_messenger\pom.xml.
+2019-11-02 10:04:35,654 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:35,674 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo_withoutDB\src\main\resources
+2019-11-02 10:04:35,676 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:35,705 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo_withoutDB\src\test\resources
+2019-11-02 10:04:36,430 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:mycool:0.0.1-SNAPSHOT @ C:\Mohit_Practise\SpringBoot-01\pom.xml.
+2019-11-02 10:04:37,121 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:crud:0.0.1-SNAPSHOT @ C:\Mohit_Personal\Spring Softwares\crud\pom.xml.
+2019-11-02 10:04:37,572 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mohit.springboot:mycool:0.0.1-SNAPSHOT @ C:\Mohit_Personal\Spring Softwares\mycool\pom.xml.
+2019-11-02 10:04:37,991 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-crm-rest-demo:spring-crm-rest-demo:0.0.1-SNAPSHOT @ C:\Mohit_Practise\spring-crm-rest-demo\pom.xml.
+2019-11-02 10:04:38,424 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-rest-demo:spring-rest-demo:0.0.1-SNAPSHOT @ C:\Mohit_Practise\spring-rest-demo\pom.xml.
+2019-11-02 10:04:38,549 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-security-demo:spring-security-demo:0.0.1-SNAPSHOT @ C:\Mohit_Practise\spring-security-demo\pom.xml.
+2019-11-02 10:04:38,667 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-security-demo_withoutDB:spring-security-demo_withoutDB:0.0.1-SNAPSHOT @ C:\Mohit_Practise\spring-security-demo_withoutDB\pom.xml.
+2019-11-02 10:04:42,998 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:43,023 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:43,034 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:43,035 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\REST_messenger\src\test\resources
+2019-11-02 10:04:44,113 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:44,119 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:44,119 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:44,122 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:44,133 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\SpringBoot-01\src\test\resources
+2019-11-02 10:04:44,828 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:44,843 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:44,843 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:44,859 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:44,860 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Personal\Spring Softwares\crud\src\test\resources
+2019-11-02 10:04:45,392 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:45,393 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:45,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-02 10:04:45,406 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 10:04:45,407 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Personal\Spring Softwares\mycool\src\test\resources
+2019-11-02 10:04:46,006 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:46,031 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-crm-rest-demo\src\main\resources
+2019-11-02 10:04:46,034 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:46,050 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-crm-rest-demo\src\test\resources
+2019-11-02 10:04:46,884 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:46,912 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-rest-demo\src\main\resources
+2019-11-02 10:04:46,922 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:46,948 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-rest-demo\src\test\resources
+2019-11-02 10:04:47,138 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:47,160 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo\src\main\resources
+2019-11-02 10:04:47,161 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:47,177 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo\src\test\resources
+2019-11-02 10:04:47,339 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:47,358 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo_withoutDB\src\main\resources
+2019-11-02 10:04:47,359 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-02 10:04:47,371 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Mohit_Practise\spring-security-demo_withoutDB\src\test\resources
+2019-11-02 10:06:24,895 [Worker-17] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
